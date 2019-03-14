@@ -1,2 +1,2 @@
 # Q2-1
-Interactive Scatter Plot of The Random Sample from a Bivariate Standard Normal Distribution
+Interactive Scatter Plot of a Random Sample from Bivariate Standard Normal Distribution
